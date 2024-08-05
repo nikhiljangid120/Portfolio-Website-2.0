@@ -25,9 +25,9 @@
     <a href="https://github.com/nikhiljangid120/Portfolio/issues">Request Feature</a>
 </h3>
 
-## TL;DR
+## Some Conditions
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Nikhil Jangid](https://github.com/nikhiljangid120/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit. Thanks!
 
 ## Built With
 
@@ -73,4 +73,4 @@ You will find all the components used, and you can edit your information accordi
 
 Give a ⭐ if you like this website!
 
-<a href="https://www.buymeacoffee.com/nikhiljangid120" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+<a href="https://www.buymeacoffee.com/nikhiljangid120" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height
