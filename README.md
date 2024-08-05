@@ -1,9 +1,9 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://nikhiljangid.tech" target="_blank">Nikhil Jangid</a>
+  <a href="https://github.com/nikhiljangid120" target="_blank">Nikhil Jangid</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/screen.png" />
 </div>
 
 <br/>
